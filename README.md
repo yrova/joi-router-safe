@@ -1,5 +1,9 @@
 # joi-router
 
+Fork from https://github.com/koajs/joi-router to fix one security vulnerability. Use at your own risk, has not been fully tested with the library update.
+
+# Info
+
 Easy, rich and fully validated [koa][] routing.
 
 [![NPM version][npm-image]][npm-url]

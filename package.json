@@ -1,6 +1,6 @@
 {
-  "name": "koa-joi-router",
-  "version": "8.0.0",
+  "name": "joi-router-safe",
+  "version": "8.0.2",
   "description": "Configurable, input validated routing for koa.",
   "main": "joi-router.js",
   "keywords": [
@@ -24,15 +24,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/koajs/joi-router.git"
+    "url": "https://github.com/yrova/joi-router-safe.git"
   },
   "bugs": {
     "url": "https://github.com/koajs/joi-router/issues"
   },
-  "homepage": "https://github.com/koajs/joi-router",
+  "homepage": "https://github.com/yrova/joi-router-safe",
   "dependencies": {
     "@koa/router": "^10.0.0",
-    "await-busboy": "1.0.3",
+    "busboy": "1.6.0",
     "clone": "2.1.2",
     "co-body": "6.0.0",
     "debug": "4.1.1",
