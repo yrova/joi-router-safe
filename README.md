@@ -1,5 +1,6 @@
 # joi-router
 
+Fork from https://github.com/koajs/joi-router to fix one security vulnerability.
 Easy, rich and fully validated [koa][] routing.
 
 [![NPM version][npm-image]][npm-url]
